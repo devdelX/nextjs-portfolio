@@ -149,7 +149,7 @@ export default function Home() {
             <h1 className='text-3xl text-teal-500 py-3'>Get in touch</h1>
             <div className='border-2 rounded-lg py-6  border-teal-500 dark:border-teal-300 mt-5'>
               <h3 className='text-lg text-gray-600 dark:text-gray-200'>Want to work together or have any questions?</h3>
-              <a href="mailto:abdelhadielouaraguli@gmail.com"><button class="relative inline-flex items-center justify-center py-3 px-5 my-6 mb-2 mr-2 overflow-hidden text-md font-medium text-gray-800 rounded-lg group bg-gradient-to-br from-green-400 to-blue-500 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800">Say Hey 👋</button></a>
+              <a href="mailto:abdelhadielouaraguli@gmail.com"><button class="relative inline-flex items-center justify-center py-3 px-5 my-6 mb-2 mr-2 overflow-hidden text-md font-medium text-white rounded-lg group bg-gradient-to-br from-green-400 to-blue-500 group-hover:from-green-400 group-hover:to-blue-600 hover:text-gray-800 dark:text-white focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800 dark:hover:text-gray-800">Say Hey 👋</button></a>
             </div>    
             <ul className='flex justify-center dark:text-gray-200 gap-4 pt-4'>
                 <li className='cursor-pointer hover:underline'><a href='https://abdelhadielouragli.medium.com/' target="_blank">Blog</a></li>
@@ -161,7 +161,7 @@ export default function Home() {
 
         <section className='py-1'>
         <footer>
-          <h3 className='text-center text-sm dark:text-white'>Made with ❤️ by <span className='text-teal-400 cursor-pointer hover:text-teal-300'><a href='https://twitter.com/aelouragli'>D3vD3l</a></span></h3>
+          <h3 className='text-center text-sm dark:text-white'>Made with ❤️ by <span className='dark:text-teal-400 dark:hover:text-teal-300 cursor-pointer hover:text-teal-500 text-teal-600'><a href='https://twitter.com/aelouragli'>D3vD3l</a></span></h3>
         </footer>
         </section>
 
