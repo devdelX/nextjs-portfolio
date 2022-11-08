@@ -65,7 +65,7 @@ export default function Home() {
               <Image src={design} width={100} height={100} />
               <h3 className='text-lg text-medium pt-6 pb-2 dark:text-white'>Design & UI/UX</h3>
               <p className='py-2 dark:text-gray-300'>Modern UI UX website design or psd website mockup</p>
-              <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
+              <h4 className="py-4 text-teal-600">Tools I Use</h4>
               <p className="py-1 dark:text-gray-300">Photoshop</p>
               <p className="py-1 dark:text-gray-300">Illustrator</p>
               <p className="py-1 dark:text-gray-300">Figma</p>
@@ -74,7 +74,7 @@ export default function Home() {
               <Image src={code} width={100} height={100} />
               <h3 className='text-lg text-medium pt-6 pb-2 dark:text-white'>Web Development</h3>
               <p className='py-2 dark:text-gray-300'>Web development in React js, Javascript and Node.js</p>
-              <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
+              <h4 className="py-4 text-teal-600">Tools I Use</h4>
               <p className="py-1 dark:text-gray-300">Next/React, Node.Js</p>
               <p className="py-1 dark:text-gray-300">Bootstrap, TailwindCSS</p>
               <p className="py-1 dark:text-gray-300">MongoDB, PostgreSQL</p>
@@ -83,7 +83,7 @@ export default function Home() {
               <Image src={consulting} width={100} height={100} />
               <h3 className='text-lg text-medium pt-6 pb-2 dark:text-white'>Smart Contract Dev</h3>
               <p className='py-2 dark:text-gray-300'>NFT minting website, smart contract and web3 integration</p>
-              <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
+              <h4 className="py-4 text-teal-600">Tools I Use</h4>
               <p className="py-1 dark:text-gray-300">HTML, CSS, JavaScript</p>
               <p className="py-1 dark:text-gray-300">React, NodeJS</p>
               <p className="py-1 dark:text-gray-300">Solidity, Web3.js</p>
