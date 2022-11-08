@@ -31,7 +31,7 @@ export default function Home() {
             <a href="#"><h1 className='text-xl text-gray-700 font-Changa font-semibold dark:text-gray-100'>D3vD3l</h1></a>
             <ul className='flex items-center'>
               <li><BsFillMoonFill onClick={() => setDarkMode(!darkMode)} className='cursor-pointer text-2xl text-gray-800 dark:text-white' /></li>
-              <li><a href='https://drive.google.com/file/d/1x1ZvFSkvvXo5rsv8DcYo4JtNiO4lh-GH/view?usp=sharing' target="_blank"><button type="button" class="text-gray-900 hover:text-white border border-gray-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg px-4 py-2 ml-6 text-center dark:border-gray-600 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-800">Resume</button></a></li>
+              <li><button type="button" class="text-gray-900 hover:text-white border border-gray-800 hover:bg-gray-900 focus:ring-4 focus:outline-none focus:ring-gray-300 font-medium rounded-lg px-4 py-2 ml-6 text-center dark:border-gray-600 dark:text-gray-400 dark:hover:text-white dark:hover:bg-gray-600 dark:focus:ring-gray-800"><a href='https://drive.google.com/file/d/1x1ZvFSkvvXo5rsv8DcYo4JtNiO4lh-GH/view?usp=sharing' target="_blank">Resume</a></button></li>
             </ul>
           </nav>
           <div className='text-center p-10'>
